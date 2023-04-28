@@ -13,7 +13,32 @@ h1{
     color:white ;
    text-align: center;
 }
-
 a{
     text-decoration: none;
+}
+a:hover{
+   color: red;
+ 
+}
+
+#principal{
+    background-color: orange;
+    color: white;
+    margin-top: -8px;
+    font-size: 20px;
+}
+.titulo{
+    margin-top: px;
+}
+.leaoimg{
+    width: 200px;
+
+}
+#leao{
+    display: block;
+    margin-left: 1000px;
+    margin-top: -230px;
+}
+#equipe{
+    margin-top: 15px;
 }
